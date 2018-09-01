@@ -15,7 +15,7 @@
       <RowDefinition Height="Auto"/>
     </Grid.RowDefinitions>
 
-    <ct:WebView x:Name="WebView1" Grid.Row="1" Source="http://bluewatersoft.jp/"
+        <ct:WebView x:Name="WebView1" Grid.Row="1" Source="https://html5test.com/"
                 NavigationStarting="WebView1_NavigationStarting"
                 NavigationCompleted="WebView1_NavigationCompleted"/>
 
