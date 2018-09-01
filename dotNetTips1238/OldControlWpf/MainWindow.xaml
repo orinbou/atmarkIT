@@ -13,7 +13,7 @@
       <RowDefinition Height="Auto"/>
     </Grid.RowDefinitions>
 
-    <WebBrowser Name="WebView1" Grid.Row="1" Source="http://bluewatersoft.jp/"
+        <WebBrowser Name="WebView1" Grid.Row="1" Source="https://html5test.com/"
                 Navigating="WebView1_Navigating" Navigated="WebView1_Navigated"/>
 
     <Grid>

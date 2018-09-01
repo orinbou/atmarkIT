@@ -98,7 +98,7 @@
       this.WebView1.MinimumSize = new System.Drawing.Size(20, 20);
       this.WebView1.Name = "WebView1";
       this.WebView1.Size = new System.Drawing.Size(800, 356);
-      this.WebView1.Source = new System.Uri("http://bluewatersoft.jp/", System.UriKind.Absolute);
+      this.WebView1.Source = new System.Uri("https://html5test.com/", System.UriKind.Absolute);
       this.WebView1.TabIndex = 2;
       this.WebView1.NavigationCompleted += new System.EventHandler<Microsoft.Toolkit.Win32.UI.Controls.Interop.WinRT.WebViewControlNavigationCompletedEventArgs>(this.WebView1_NavigationCompleted);
       this.WebView1.NavigationStarting += new System.EventHandler<Microsoft.Toolkit.Win32.UI.Controls.Interop.WinRT.WebViewControlNavigationStartingEventArgs>(this.WebView1_NavigationStarting);
